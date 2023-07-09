@@ -1,5 +1,15 @@
-# 💫 About Me:
-🌱 I’m currently learning Go Lang, Next.js<br>💬 Ask me about React, Node.js, Express, Django, SQL<br>
+<h1 align="center">Hi 👋, I'm Adi Akhilesh Singh</h1>
+<h5 align="center">I am a Computer Science and Engineering undergraduate student at the Indian Institute of Technology (BHU) pursuing an Integrated Dual Degree in my Second Year.</h5>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adiakhileshsingh15&label=Profile%20views&color=0e75b6&style=flat" alt="adiakhileshsingh15" /> </p>
+
+- 🌱 I’m currently learning **Go Lang, Next.js**
+
+- 💬 Ask me about **React, Node.js, Express, Django, SQL**
+
+- 📫 How to reach me **adiakhilesh.singh.cse21@itbhu.ac.in**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i45eLQEcLNfa209WL9Q0UjOnUs8Qf9l8/view?usp=drive_link)
 
 
 ## 🌐 Socials:
@@ -10,7 +20,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=html,css)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdiAkhileshSingh15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
