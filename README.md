@@ -16,9 +16,6 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i45eLQEcLNfa209WL9Q0UjOnUs8Qf9l8/view?usp=drive_link)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiakhileshsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adi-akhilesh-singh-5a4baa229) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adi_akhilesh15) 
-
 ## Tech Stack 💻
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
