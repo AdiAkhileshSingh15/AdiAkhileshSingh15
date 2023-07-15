@@ -1,36 +1,42 @@
-name: generate animation
+name: Update readme
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
-  
+    - cron: "0 4 * * *"
   workflow_dispatch:
-  
-  push:
-    branches:
-    - main
-    
-  
+
+
 
 jobs:
-  generate:
+  readme:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: milaabl/snk-fix-build-error/svg-only@main
+      - uses: actions/checkout@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: preview
-          build_dir: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.head_ref }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        
+      - run: npm install
+
+      - name: Generate readme
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+          UNSPLASH_API_KEY: ${{ secrets.UNSPLASH_API_KEY }}
+        run: node build-svg.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          push_options: --force
+          commit_user_name: Ludmila
+          commit_user_email: milaabl2405@gmail.com
+          commit_author: Author <milaabl2405@gmail.com>
+          commit_message: "Auto updating my readme"
+          file_pattern: "*.svg README.md"
