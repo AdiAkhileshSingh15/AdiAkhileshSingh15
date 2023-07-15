@@ -44,7 +44,7 @@
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-#### Web Hostinghttps://github.com/AdiAkhileshSingh15/AdiAkhileshSingh15/blob/preview/github-contribution-grid-snake-dark.svg
+#### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
