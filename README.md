@@ -72,6 +72,6 @@
 ### Thanks for Visiting my GitHub Profile!
 
 ---
-![Snake animation](https://github.com/AdiAkhileshSingh15/AdiAkhileshSingh15/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/AdiAkhileshSingh15/AdiAkhileshSingh15/blob/output/github-contribution-grid-snake.svg)
 
 [![](https://visitcount.itsvg.in/api?id=AdiAkhileshSingh15&icon=5&color=1)](https://visitcount.itsvg.in)
