@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go Lang, Next.js**
 
-- 💬 Ask me about **React, Node.js, Express, Django, SQL**
+- 💬 Ask me about **Go Lang, React, Node.js, Express, Django, SQL**
 
 - 📫 How to reach me **adiakhilesh.singh.cse21@itbhu.ac.in**
 
@@ -36,13 +36,14 @@
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 #### Web Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
