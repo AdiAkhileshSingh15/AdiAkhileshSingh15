@@ -7,9 +7,9 @@
 <a href="https://instagram.com/adiakhileshsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 </p>
 
-- 🌱 I’m currently learning **Go Lang, Next.js**
+- 🌱 I’m currently learning **Go, K8s**
 
-- 💬 Ask me about **Go Lang, React, Node.js, Express, Django, SQL**
+- 💬 Ask me about **Go, React, Django, SQL**
 
 - 📫 How to reach me **adiakhilesh.singh.cse21@itbhu.ac.in**
 
@@ -60,19 +60,24 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=html,css,scss,c,cpp)
+## 📊 GitHub Stats:
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=490" />
+  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false&card_width=490" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdiAkhileshSingh15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🔝 Top Langs and Repo:
+<p align="center">
+  <img height=247 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiAkhileshSingh15&theme=dark&hide_border=false&count_private=false&layout=compact&hide=html,css,scss,c&card_width=336" />
+  <img height=247 src="https://github-contributor-stats.vercel.app/api?username=AdiAkhileshSingh15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
+<!-- Made using https://gprm.itsvg.in/ & https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Thanks for Visiting my GitHub Profile!
-
 ---
-![Snake animation](https://github.com/AdiAkhileshSingh15/AdiAkhileshSingh15/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/AdiAkhileshSingh15/AdiAkhileshSingh15/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=AdiAkhileshSingh15&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AdiAkhileshSingh15&icon=5&color=1&pretty=false)](https://visitcount.itsvg.in)
