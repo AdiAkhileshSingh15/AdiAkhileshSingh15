@@ -68,8 +68,8 @@
 
 ## 🔝 Top Langs and Repo:
 <p align="center">
-  <img height=247 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiAkhileshSingh15&theme=dark&hide_border=false&count_private=false&layout=compact&hide=html,css,scss,c" />
-  <img height=247 src="https://github-contributor-stats.vercel.app/api?username=AdiAkhileshSingh15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiAkhileshSingh15&theme=dark&hide_border=false&count_private=false&layout=compact&hide=html,css,scss,c" />
+  <img height=200 src="https://github-contributor-stats.vercel.app/api?username=AdiAkhileshSingh15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 <!-- Made using https://gprm.itsvg.in/ & https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
