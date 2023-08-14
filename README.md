@@ -63,10 +63,10 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=490">
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=490" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=490" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false&card_width=490">
-    <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false&card_width=490" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false&card_width=490" />
   </a>
 </p>
 
