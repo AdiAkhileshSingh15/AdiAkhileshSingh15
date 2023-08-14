@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adiakhilesh.singh.cse21@itbhu.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13cEZSRvFZvHitIOOdVlSTOo2dv_KNjsH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1fXQUiks0qzqw4OtTL9Ph29JInkS7bC2L?usp=sharing)
 
 
 ## Tech Stack 💻
