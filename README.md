@@ -62,14 +62,18 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=490" />
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false&card_width=490" />
+  <a href="https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=490">
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=490" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false&card_width=490">
+    <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false&card_width=490" />
+  </a>
 </p>
 
 ## 🔝 Top Langs and Repo:
 <p align="center">
-  <img height=247 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiAkhileshSingh15&theme=dark&hide_border=false&count_private=false&layout=compact&hide=html,css,scss,c&card_width=336" />
-  <img height=247 src="https://github-contributor-stats.vercel.app/api?username=AdiAkhileshSingh15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img align="center" height=247 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiAkhileshSingh15&theme=dark&hide_border=false&count_private=false&layout=compact&hide=html,css,scss,c&card_width=336" />
+  <img align="center" height=247 src="https://github-contributor-stats.vercel.app/api?username=AdiAkhileshSingh15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 <!-- Made using https://gprm.itsvg.in/ & https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
