@@ -61,14 +61,12 @@
 
 
 ## 📊 GitHub Stats:
-<p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdiAkhileshSingh15&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiAkhileshSingh15&theme=dark&hide_border=false" />
   </a>
-</p>
 
 ## 🔝 Top Langs and Repo:
 <p align="center">
