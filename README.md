@@ -7,7 +7,7 @@
 <a href="https://instagram.com/adiakhileshsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 </p>
 
-- 🌱 I’m currently learning **Go, K8s**
+- 🌱 I’m currently learning **Go, Next**
 
 - 💬 Ask me about **Go, React, Django, SQL**
 
