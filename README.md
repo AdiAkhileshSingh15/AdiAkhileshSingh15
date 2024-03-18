@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Adi Akhilesh Singh</h1>
-<h5 align="center">I am a Computer Science and Engineering undergraduate student at the Indian Institute of Technology (BHU) pursuing an Integrated Dual Degree in my Third Year.</h5>
+<h1 align="center">Hi 👋, I'm Adi</h1>
+<h5 align="center">A Computer Science and Engineering undergraduate student at the Indian Institute of Technology (BHU) pursuing an Integrated Dual Degree in my Third Year.</h5>
 
 <p align="center">
 <a href="https://twitter.com/adi_akhilesh15" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/adi05022003" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/adiakhileshsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 </p>
 
 - 🌱 I’m currently learning **Go, Next**
 
-- 💬 Ask me about **Go, React, Django, SQL**
+- 💬 Ask me about **Go, Javascript, Python, SQL**
 
 - 📫 How to reach me **adiakhilesh.singh.cse21@itbhu.ac.in**
 
@@ -52,6 +51,7 @@
 
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![YARN](https://img.shields.io/badge/-YARN-000?style=for-the-badge&logo=yarn)
 
 #### DevOps
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
