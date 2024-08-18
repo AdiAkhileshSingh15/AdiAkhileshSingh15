@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adi</h1>
-<h5 align="center">A Computer Science and Engineering undergraduate student at the Indian Institute of Technology (BHU) pursuing an Integrated Dual Degree in my Third Year.</h5>
+<h5 align="center">A Computer Science and Engineering undergraduate student at the Indian Institute of Technology (BHU) in my Pre-Final Year.</h5>
 
 <p align="center">
 <a href="https://twitter.com/adi_akhilesh15" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
